@@ -17,3 +17,9 @@
 - Ingeniería en Sistemas es mi segunda carrera. La primera fue medicina, pero la dejé después de terminar el segundo año.
 - Tengo un hermano menor, Gonzalo. Estamos en la misma carrera y además cursamos juntos esta cátedra.
 - Trabajo en el negocio familiar siempre que tengo días libres.
+
+## Hobbies ##
+
+- Me encantan los videojuegos de todo tipo. Mis juegos favoritos son los Doom, desde el Doom del 93 hasta el Doom Eternal. También me gustan los juegos de gestión.
+- Me gusta leer mucho sobre historia, libros de ciencia ficción y policiales, y también leo comics y algo de manga.
+

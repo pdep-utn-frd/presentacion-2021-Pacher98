@@ -2,7 +2,7 @@
 
 ## Información sobre mí ##
 
-![Foto personal]()
+![Foto personal](https://avatars.githubusercontent.com/u/80931096?s=400&u=9ed95e90266f26a5a668a19c33715ff611855902&v=4)
 
 - Nombre
     - Mi nombre es Marcos Guillermo Pacher. Aunque mi primer nombre es Marcos, todos me llaman por el segundo, Guillermo (Guille, para simplificar). 
